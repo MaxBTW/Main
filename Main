@@ -1,5 +1,5 @@
 if game.PlaceId == 2580982329 then
-loadstring(game:HttpGet('https://github.com/MaxBTW/Scripts/blob/main/SmsSimulator'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxBTW/Scripts/main/SmsSimulator'))()
 end
 if game.PlaceId == 5852812686 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxBTW/Scripts/main/CandyClickingSimulator'))()
