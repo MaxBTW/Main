@@ -1,0 +1,6 @@
+if game.PlaceId == 2580982329 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxBTW/Scripts/main/CandyClickingSimulator'))()
+end
+if game.PlaceId == 5852812686 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxBTW/Scripts/main/CandyClickingSimulator'))()
+end
